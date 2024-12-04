@@ -15,7 +15,7 @@ const Contact = () => {
     e.preventDefault();
     console.log("formData---------------", formData)
     try {
-      await axios.post('http://localhost:6000/api/send-message', formData, {
+      await axios.post('https://portfolio-backend-502n.onrender.com/api/send-message', formData, {
         headers: {
           'Content-Type': 'application/json',
         },
