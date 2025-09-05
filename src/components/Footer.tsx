@@ -14,7 +14,7 @@ const Footer = () => {
             <a href="https://github.com/azharjustin" target='_blank' className="hover:text-blue-400 transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://www.linkedin.com/in/mohamed-azharudeen-04966b226/" target='_blank' className="hover:text-blue-400 transition-colors">
+            <a href="https://www.linkedin.com/in/azhar-developer/" target='_blank' className="hover:text-blue-400 transition-colors">
               <Linkedin size={24} />
             </a>
             <a href="mailto:azharjustin37@gmail.com" target='_blank' className="hover:text-blue-400 transition-colors">

@@ -46,7 +46,7 @@ const About = () => {
               viewport={{ once: true }}
               transition={{ delay: 0.3 }}
             >
-              I'm a passionate <GradientText>Full Stack Developer</GradientText> with 2 years of experience in building web applications. I love creating elegant solutions to complex problems and turning ideas into reality through code.
+              I'm a passionate <GradientText>Full Stack Developer</GradientText> with 3 years of experience in building web applications. I love creating elegant solutions to complex problems and turning ideas into reality through code.
             </motion.p>
             
             <div className="grid grid-cols-2 gap-4 pt-4">

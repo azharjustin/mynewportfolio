@@ -3,10 +3,22 @@ import { Briefcase, Star } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const experiences = [
+    {
+    title: 'Spftware Engineer',
+    company: 'HCL Tech',
+    period: 'Jan 2025 - Present',
+    description: 'Building and improving front-end applications using React and modern UI frameworks.',
+    achievements: [
+      'Contributed to the Trace Application migration project, transitioning legacy Angular codebase to modern React architecture using React, SaaS and PrimFlex UI framework.',
+      'Creating reusable components and improving front-end performance.',
+      'Collaborated closely with designers and backend teams to ensure seamless integration and optimized user experience',
+      'Used Git and GitHub for version control and code collaboration within an agile team environment.'
+    ]
+  },
   {
     title: 'Full Stack Developer',
     company: 'Barbarik Ai',
-    period: 'Jun 2024 - Present',
+    period: 'Jun 2024 - Nov 2024',
     description: 'Developed and maintained the applications using modern technologies.',
     achievements: [
       'Delivered 3+ successful projects',

@@ -23,7 +23,7 @@ const projects = [
     title: 'Quiz Game Application',
     description: 'A React front-end Quiz game application',
     image: 'https://img.freepik.com/free-vector/quiz-neon-sign_1262-19629.jpg?t=st=1733307902~exp=1733311502~hmac=87143aec63adf0dd5fc9a912a97d50f579d7b7cbd9b13629d5c57bb70f4fe34f&w=1380',
-    technologies: ['React.js', 'Javascript', ''],
+    technologies: ['React.js', 'Javascript'],
     github: 'https://github.com/azharjustin/react-quiz',
     live: 'https://eloquent-mousse-2cf4f8.netlify.app/'
   }
